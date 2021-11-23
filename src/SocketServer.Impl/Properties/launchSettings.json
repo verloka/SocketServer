@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SocketServer.Impl": {
+      "commandName": "Project",
+      "commandLineArgs": "5000"
+    }
+  }
+}

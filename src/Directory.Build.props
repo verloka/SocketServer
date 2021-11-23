@@ -1,0 +1,13 @@
+<Project>
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<Nullable>enable</Nullable>
+		<RollForward>LatestMinor</RollForward>
+		<LangVersion>10.0</LangVersion>
+
+		<Product>SocketServer</Product>
+		<Authors>Vadym Verloka</Authors>
+		<Company>Verloka</Company>
+		<Copyright>Copyright © 2021, Vadym Verloka</Copyright>
+	</PropertyGroup>
+</Project>
